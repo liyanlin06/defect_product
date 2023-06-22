@@ -1,2 +1,2 @@
-# detect_product
+## detect_product
 2023年度山东大学软件学院暑期项目实训8组——工业品缺陷检测
