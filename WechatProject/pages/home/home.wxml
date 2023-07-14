@@ -1,8 +1,0 @@
-<view>
-<image class="img" src="../images/R-C.jpg"></image>
-
-<view class="t1">工业品组装缺陷检测中心</view>
-<button class="btn1" bindtap="index">开始检测</button>
-
-</view>
-
